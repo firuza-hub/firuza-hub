@@ -11,6 +11,7 @@
 ---
 ### 🏋️‍♀️ About Me
 I am an Android developer with past experience in Backend development (.NET) and a Project Management skill as a bonus 😉
+
 If you are willing to see me in your team, contact me via email: fsaliyeva96@gmail.com
 
 
